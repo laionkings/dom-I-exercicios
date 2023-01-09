@@ -4,5 +4,8 @@ Crie um campo label e um campo input na página HTML, e preencha o campo com o n
 Depois disso, escreva **No DevTools** o código necessário para que seja possível imprimir o valor do input escrito no console.
 Cole o comando aqui:
 ```jsx
+<label for="nova-fruta">Nova fruta:</label>
+<input type="text" id="nova-fruta">
+
     cole o código JS nesta área.
 ```
